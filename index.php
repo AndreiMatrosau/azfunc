@@ -1,3 +1,3 @@
 <?php
 
-echo "From Staging slot after some changes"
+echo "From Staging slot";
